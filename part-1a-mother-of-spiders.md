@@ -19,6 +19,11 @@ Read slowly, eerie but not immediately threatening.
 
 ---
 
+### 🔊 Sound
+[Spider cabin ambience — start as the players step inside](https://www.youtube.com/watch?v=-7jv11iX12E&list=RD-7jv11iX12E&start_radio=1)
+
+---
+
 ### 🎙️ Read-Aloud (Inside the Cabin)
 
 Use a soft, unsettling tone.
@@ -28,7 +33,9 @@ Use a soft, unsettling tone.
 > An old woman moves slowly around the room, her back hunched, her steps dragging softly across the wooden floor. Her hair hangs long and tangled, matted into thick ropes.
 >
 > Then you notice movement within it.
->
+
+🔊 **[Play now — creepy violin sting](https://www.youtube.com/watch?v=6HEOwMaygeQ&list=RD6HEOwMaygeQ&start_radio=1)**
+
 > Spiders.
 >
 > Dozens — maybe hundreds — nest in her hair, crawl along her shoulders, slip beneath the fabric of her tattered shawl. The walls themselves ripple with them, covering every inch in shifting black patterns.
@@ -465,6 +472,8 @@ Read this slowly. Let it breathe.
 >
 > "Mother. You came."
 
+![The Elder Weaver suspended in her web — a vast spider the size of a horse, silk spanning the cathedral chamber, bioluminescent fungi tracing the walls in blue and amber](Images/motherOfSpiders/elderWeaver.png)
+
 ---
 
 ### 📌 DM Reference — The Elder Weaver
@@ -552,6 +561,8 @@ While in the Elder Weaver's Chamber, on initiative count 20 (losing ties), the E
 **DM Note:** The Elder Weaver will not initiate combat. If the party directly attacks her or causes severe harm to Aani in her presence, she will fight - but she prefers to restrain rather than kill. Use her Legendary Actions and Lair Actions to control the battlefield, not eliminate the party. She has never lost a fight in this chamber. Use her actions with the confidence of something that does not need to hurry.
 
 ### 🌿 The Boons — The Bite Ritual
+
+![The Elder Weaver close — eight bioluminescent eyes, chelicerae parted, silk framing her face](Images/motherOfSpiders/elderWeaverCloseUp.png)
 
 After the reunion with Aani settles, the Elder Weaver turns to the party. She doesn’t ask permission. She simply descends from her web slowly and moves to the first player.
 
