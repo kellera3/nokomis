@@ -79,6 +79,52 @@ Use a soft, unsettling tone.
 
 ---
 
+### 🕷️ Aani of the Web — Stat Block
+
+*Medium humanoid (spider-totem skinwalker), neutral good*
+
+| AC | HP | Speed |
+|---|---|---|
+| 10 | 10 | 20 ft. |
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 6 (-2) | 12 (+1) | 6 (-2) | 10 (+0) | 16 (+3) | 12 (+1) |
+
+**Saving Throws:** Wis +5  
+**Skills:** Insight +5, Perception +5  
+**Senses:** Tremorsense 10 ft. (through spider-kin contact only), Passive Perception 15  
+**Languages:** Common (rarely speaks coherently)  
+**CR:** 0 (10 XP)
+
+---
+
+**Fractured Soul.** Aani's soul is partially detached from her body. She has disadvantage on all Constitution saving throws. Any creature that succeeds on a DC 13 Arcana check while near her senses something coiled inside — patient, concentrated, furious. This is the potential of the Widow's Molar.
+
+**Spider Kin.** Aani is surrounded by spider-kin at all times. Any creature that enters within 5 feet of her for the first time on a turn must succeed on a **DC 12 Dexterity saving throw** or have 1d4 small spiders crawl on them. A creature that fails must then make a **DC 10 Wisdom saving throw** or be frightened of Aani until the end of its next turn.
+
+**Totem Remnant.** Aani retains a faint trace of her spider totem. She can feel vibrations through any surface she is in contact with, and she is aware of the location of any creature touching the same floor or web within 10 feet of her.
+
+---
+
+**Actions**
+
+**Spider Call (1/Day).** Aani whispers to her kin. A Swarm of Spiders (see *Monster Manual*) forms within 10 feet of her and acts on initiative count 20, acting on instinct to protect her. It does not follow commands.
+
+**Bite (only in extremis).** Aani will not willingly use this action. If she is at 3 HP or below and is still being directly assaulted, her totem instinct surfaces. *Melee weapon attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 1d4+1 piercing damage, and the target must succeed on a **DC 11 Constitution saving throw** or take 1d6 poison damage (half on a successful save).
+
+---
+
+**Reactions**
+
+**Spider Shield.** When Aani takes damage, her spider-kin instinctively cluster around her. She gains 4 temporary hit points, which disappear after 1 minute. She can use this reaction once per short rest.
+
+---
+
+**DM Note:** Aani's HP represents her spiritual health, not combat endurance — track it using the table in the Aani's Spiritual Health section. She will not use her Bite under any normal circumstances. If she reaches 0 HP her soul fractures further; she does not die, but nothing remains behind her eyes.
+
+---
+
 ### 🕷️ Information She Can Reveal (if prompted gently)
 
 #### 1. About the Mine
@@ -234,6 +280,11 @@ The trapdoor opens onto a vertical shaft with knotted silk ropes descending into
 5. **The Elder Weaver’s Chamber** — Final destination
 
 Give the tunnels a sacred, lived-in feel: silk hangings catch faint bioluminescent light, cocoons of unknown origin cluster in corners, and the distant sound of something very large moving in the deep carries through the stone.
+
+---
+
+### 🔊 Sound
+[Underground cave ambience — start when the trapdoor opens](https://www.youtube.com/watch?v=-8U4tTlG5n4)
 
 ---
 
@@ -426,6 +477,79 @@ Read this slowly. Let it breathe.
 **DM Note:** Do not rush the reunion. Give each player a moment to observe something — the way Aani’s shoulders finally relax, the way the spiders from her hair drift gently to the Elder Weaver’s silk, the way the old woman’s breathing slows for the first time.
 
 ---
+
+
+---
+
+### 🕷️ The Elder Weaver — Stat Block
+
+*Huge beast (ancient spider), neutral good*
+
+| AC | HP | Speed |
+|---|---|---|
+| 15 (natural armor) | 114 (12d12+48) | 30 ft., climb 40 ft. |
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 20 (+5) | 16 (+3) | 18 (+4) | 14 (+2) | 18 (+4) | 16 (+3) |
+
+**Saving Throws:** Dex +7, Con +8, Wis +8, Cha +7  
+**Skills:** Insight +8, Perception +8, Stealth +7  
+**Damage Resistances:** Poison  
+**Condition Immunities:** Poisoned  
+**Senses:** Blindsight 60 ft., Tremorsense 120 ft. (while in contact with web), Darkvision 60 ft., Passive Perception 18  
+**Languages:** Understands all languages; communicates through layered vibration felt in the chest rather than heard - all creatures within 60 ft. can understand her  
+**CR:** 6 (2,300 XP)
+
+---
+
+**Spider Climb.** The Elder Weaver can climb difficult surfaces, including ceilings, without requiring an ability check.
+
+**Web Sense.** While in contact with a web, the Elder Weaver knows the exact location of any creature also in contact with that web.
+
+**Web Walker.** The Elder Weaver ignores movement restrictions caused by webbing.
+
+**Ancient Presence.** The first time a creature attacks the Elder Weaver without having been attacked by her first, it must succeed on a **DC 16 Wisdom saving throw** or be frightened of her until the end of its next turn.
+
+**Paralytic Venom.** The Elder Weaver's venom is the source of the Widow's Gift boon. In the boon ritual she uses this bite at will against willing creatures with no attack roll. In combat it functions as listed under the Bite action below.
+
+---
+
+**Actions**
+
+**Multiattack.** The Elder Weaver makes two Leg Strike attacks and one Bite attack, or two Leg Strike attacks and uses Web.
+
+**Leg Strike.** *Melee weapon attack:* +9 to hit, reach 10 ft., one creature. *Hit:* 2d6+5 bludgeoning damage. The target must succeed on a **DC 16 Strength saving throw** or be knocked prone.
+
+**Bite.** *Melee weapon attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 2d10+5 piercing damage, and the target must succeed on a **DC 16 Constitution saving throw** or be **paralyzed until the end of its next turn**. (During the boon ritual this is used against willing targets with no attack roll; the paralysis effect still applies and is the intended outcome.)
+
+**Web (Recharge 5-6).** *Ranged attack:* +7 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The target is **restrained** by webbing. As an action, a restrained creature can make a **DC 16 Strength check**, freeing itself on a success. The webbing can also be destroyed (AC 10, 15 HP, vulnerability to fire, immunity to bludgeoning, poison, and psychic damage).
+
+---
+
+**Legendary Actions**
+
+The Elder Weaver can take 3 legendary actions per round, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. She regains spent legendary actions at the start of her turn.
+
+**Tighten (Costs 1).** One creature restrained by webbing in the chamber takes 2d6 bludgeoning damage as the silk constricts. No saving throw.
+
+**Shift (Costs 1).** The Elder Weaver moves up to half her speed without provoking opportunity attacks.
+
+**Bite (Costs 2).** The Elder Weaver makes one Bite attack.
+
+---
+
+**Lair Actions**
+
+While in the Elder Weaver's Chamber, on initiative count 20 (losing ties), the Elder Weaver can use one of the following lair actions:
+
+**Silk Snare.** Threads shoot from the walls toward one creature within 60 ft. That creature must succeed on a **DC 14 Dexterity saving throw** or be pulled up to 15 feet toward the Elder Weaver and become restrained until the end of its next turn.
+
+**Web Veil.** The hanging silk shifts and thickens. Until initiative count 20 of the next round, all creatures except the Elder Weaver have disadvantage on Perception checks.
+
+---
+
+**DM Note:** The Elder Weaver will not initiate combat. If the party directly attacks her or causes severe harm to Aani in her presence, she will fight - but she prefers to restrain rather than kill. Use her Legendary Actions and Lair Actions to control the battlefield, not eliminate the party. She has never lost a fight in this chamber. Use her actions with the confidence of something that does not need to hurry.
 
 ### 🌿 The Boons — The Bite Ritual
 
