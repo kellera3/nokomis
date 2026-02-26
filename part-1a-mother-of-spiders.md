@@ -348,6 +348,11 @@ Give the tunnels a sacred, lived-in feel: silk hangings catch faint bioluminesce
 
 ### 🪱 Encounter 3 — The Blind Passage *(Combat)*
 
+### 🔊 Sound
+[Battle ambience — start when the first worm drops](https://www.youtube.com/watch?v=C5LWRU_RyBg&list=RDC5LWRU_RyBg&start_radio=1)
+
+---
+
 **Description:** The passage tightens sharply — ceiling drops, walls close in. The tunnel must be crawled through for roughly 40 feet. It is total darkness unless the party has a light source. The ceiling is blanketed in thousands of pale silk worms, hanging in dense clusters on threads they have secreted. They are blind, but they feel vibration — and warmth. They are not Aani’s kin and will drop without warning.
 
 **Read-Aloud:**

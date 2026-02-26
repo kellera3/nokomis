@@ -143,6 +143,9 @@ Players who do not want to fight can attempt to move past the creature quietly.
 | **DC 8–12** | The creature follows at distance — 60 ft. back, matching the party's pace through the trees for several minutes before eventually falling behind. Make it uncomfortable. |
 | **Below DC 8** | The Gorged abandons the pile and closes. Roll initiative. |
 
+### 🔊 Sound
+[Battle ambience — start when the Gorged closes and initiative is rolled](https://www.youtube.com/watch?v=C5LWRU_RyBg&list=RDC5LWRU_RyBg&start_radio=1)
+
 **Distraction:** A player who throws food, creates a loud sound on the far side of the pile, or otherwise gives the creature a reason to look away grants the group **advantage** on the Stealth check. The Gorged is still an animal — it can be fooled.
 
 ---
